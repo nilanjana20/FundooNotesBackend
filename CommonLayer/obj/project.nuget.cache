@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H5SHhYnPkTU+fexsl0QrUg2Sc56Crg+SEyHqwV9Th1untO970Uq6OD6qYLNtYay12s4wgHwAvuJ4djUuzna9jA==",
+  "success": true,
+  "projectFilePath": "D:\\FundooBackend\\FundooNotesApp\\CommonLayer\\CommonLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

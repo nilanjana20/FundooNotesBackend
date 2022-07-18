@@ -1,0 +1,15 @@
+D:\FundooBackend\FundooNotesApp\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.deps.json
+D:\FundooBackend\FundooNotesApp\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.dll
+D:\FundooBackend\FundooNotesApp\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.pdb
+D:\FundooBackend\FundooNotesApp\BussinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+D:\FundooBackend\FundooNotesApp\BussinessLayer\bin\Debug\netcoreapp3.1\RepoLayer.dll
+D:\FundooBackend\FundooNotesApp\BussinessLayer\bin\Debug\netcoreapp3.1\RepoLayer.pdb
+D:\FundooBackend\FundooNotesApp\BussinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\FundooBackend\FundooNotesApp\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.AssemblyReference.cache
+D:\FundooBackend\FundooNotesApp\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FundooBackend\FundooNotesApp\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfoInputs.cache
+D:\FundooBackend\FundooNotesApp\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfo.cs
+D:\FundooBackend\FundooNotesApp\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CoreCompileInputs.cache
+D:\FundooBackend\FundooNotesApp\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CopyComplete
+D:\FundooBackend\FundooNotesApp\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.dll
+D:\FundooBackend\FundooNotesApp\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.pdb
