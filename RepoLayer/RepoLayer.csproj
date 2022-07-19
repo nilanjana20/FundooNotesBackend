@@ -5,6 +5,27 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20220718121343_Label.cs" />
+    <Compile Remove="Migrations\20220718121343_Label.Designer.cs" />
+    <Compile Remove="Migrations\20220718121835_LabelTable.cs" />
+    <Compile Remove="Migrations\20220718121835_LabelTable.Designer.cs" />
+    <Compile Remove="Migrations\20220719053239_Label.cs" />
+    <Compile Remove="Migrations\20220719053239_Label.Designer.cs" />
+    <Compile Remove="Migrations\20220719054239_LabelTable.cs" />
+    <Compile Remove="Migrations\20220719054239_LabelTable.Designer.cs" />
+    <Compile Remove="Migrations\20220719054630_LabelTable.cs" />
+    <Compile Remove="Migrations\20220719054630_LabelTable.Designer.cs" />
+    <Compile Remove="Migrations\20220719060020_LabelTable.cs" />
+    <Compile Remove="Migrations\20220719060020_LabelTable.Designer.cs" />
+    <Compile Remove="Migrations\20220719060102_Label.cs" />
+    <Compile Remove="Migrations\20220719060102_Label.Designer.cs" />
+    <Compile Remove="Migrations\20220719061000_LabelTable.cs" />
+    <Compile Remove="Migrations\20220719061000_LabelTable.Designer.cs" />
+    <Compile Remove="Migrations\20220719061022_Label.cs" />
+    <Compile Remove="Migrations\20220719061022_Label.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.0" />
