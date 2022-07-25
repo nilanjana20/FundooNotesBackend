@@ -23,6 +23,8 @@
     <Compile Remove="Migrations\20220719061000_LabelTable.Designer.cs" />
     <Compile Remove="Migrations\20220719061022_Label.cs" />
     <Compile Remove="Migrations\20220719061022_Label.Designer.cs" />
+    <Compile Remove="Migrations\20220722060521_Collab.cs" />
+    <Compile Remove="Migrations\20220722060521_Collab.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
